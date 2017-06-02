@@ -1,11 +1,11 @@
 ## Harini -Personal Website
-=========
+
 
 Visit my website here : 
 My personal website - Find Everything about me here. The site uses HTML5, CSS and Javascript.
 
 ## Website
-========
+
 The website is a very simple. It doesn't really have many fancy features. 
 
  - You can read about my projects, education and career history 
