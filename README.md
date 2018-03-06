@@ -1,7 +1,7 @@
 ## Harini -Personal Website
 
 
-Visit my website here : https://harinigb.github.io/harinibalakrishnan-website/
+Visit my website here : https://harinigb.github.io/harinibalakrishnan.info/
 
 My personal website - Find Everything about me here. The site uses HTML5, CSS and Javascript.
 
